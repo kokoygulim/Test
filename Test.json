@@ -1,0 +1,17 @@
+{
+    "app_title": "\ud83e\udd21 TOP 10 POWER IMO \ud83e\udd21",
+    "description": "\ud83d\udc97 \u098f\u0987 \u0987\u09ae\u09cb\u099f\u09be\u09b0 \u09aa\u09be\u09b8\u0993\u09af\u09bc\u09be\u09b0\u09cd\u09a1 \u09a8\u09bf\u09a4\u09c7 \u09b9\u09b2\u09c7 \u0985\u09a8\u09be\u09b0\u09c7\u09b0 \u09b8\u09be\u09a5\u09c7 \u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 \u0995\u09b0\u09c1\u09a8 \ud83d\udc97",
+    "dialog_enabled": true,
+    "contact_button_enabled": true,
+    "device_id_enabled": true,
+    "expiry_date_enabled": false,
+    "contact_url": "https:\/\/t.me\/publicgroup5s",
+    "renew_url": "https:\/\/t.me\/publicgroup7s",
+    "devices": [
+        {
+            "device_id": "9b987139bae9e653",
+            "password": "77",
+            "expiry_date": "2026-11-13"
+        }
+    ]
+} 
